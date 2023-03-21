@@ -52,19 +52,5 @@ Deployed on Heroku
 - Allow multiple categories to be tracked under one budget
 - Add recurring expenses and income
 
-## 🧑🏻 Author
-
-**Sebastian Prestele**
-
-- [Profile](https://github.com/sebprestele "Sebastian Prestele")
-
-- [Email](mailto:sebastian.prestele@gmail.com?subject=Hi%20from%20<repo-email> "Hi!")
-
-- [LinkedIn](https://www.linkedin.com/in/sebastianprestele/ "LinkedIn Sebastian Prestele")
-  
-
-
 <p align="center">💙 If you like this project, Give it a ⭐</p>
 
-
-<p align="center">Made with <repo-lang> & ❤️ in Southern Germany</p>
